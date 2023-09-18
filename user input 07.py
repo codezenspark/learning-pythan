@@ -1,0 +1,11 @@
+# >>> in this program i use input 
+a = input("Enter your name ")
+b = input("Enter your Roll number ")
+c = input("Enter your phone number ")
+print("thanks for data !!!")
+print("Hi",a)
+print("your Roll No : ",b)
+print("your phone NO : ",c)
+e = input("enter the first number ")
+f = input("enter the second number ")
+print("sum = ",int(e)+int(f))
